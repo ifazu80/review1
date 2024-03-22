@@ -12,7 +12,7 @@ resource "aws_instance" "RHEL1Jenkins" {
     Name = "RHEL-Server"
   }
 
-
+}
 
 
 
